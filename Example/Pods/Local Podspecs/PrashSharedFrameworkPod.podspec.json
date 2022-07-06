@@ -1,0 +1,22 @@
+{
+  "name": "PrashSharedFrameworkPod",
+  "version": "0.1.0",
+  "summary": "A short description of PrashSharedFrameworkPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TheAppMentor/PrashSharedFrameworkPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TheAppMentor": "prashanth.moorthy@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/TheAppMentor/PrashSharedFrameworkPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PrashSharedFrameworkPod/Classes/**/*"
+}
